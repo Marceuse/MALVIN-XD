@@ -9,7 +9,7 @@
   "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
-        "value":"",
+        "value":"malvin~smNnUBDI#vtRjW42d1jV0TtEKRQK129b3a696Z881JZVfrTGkgJc",
         "required": true
         
     },
@@ -40,13 +40,13 @@
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "255652398614"
       "required": true
       
    },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "Nicolaus Daniel 2😈😈",
       "required": true
     }
 
